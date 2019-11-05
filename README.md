@@ -38,15 +38,3 @@ This application is especially for Linux systems.
 ## Built With
 
 * [C++ 11](https://en.cppreference.com/w/cpp) - Programming Language
-
-## Authors
-
-* **Rachit Rahul Mishra  - 17JE003017** 
-* **Samyak Singh - 17JE003024** 
-* **Vipul Bandi - 17JE003026** 
-* **Sandesh Sinha - 17JE003038** 
-* **Sandeep Sheela - 17JE0048** 
-* **Avi Sahney - 17JE003050** 
-* **Navya Srivastava - 17JE0052** 
-* **Vipin Prakash - 17JE003061** 
-* **Thakur Ashutosh Suman - 17JE003067**
