@@ -1,6 +1,6 @@
 # Chat Application using interprocess communication
 
-A command line utility chat application which allows multiple users to chat with the server simultaneously. It uses Interprocess communication - Shared Memory concept. The users can also view their message history.
+A command line utility chat application which allows multiple users to chat with the server simultaneously. It uses Interprocess communication - Shared Memory concept.
 
 ## Getting Started
 
@@ -38,3 +38,7 @@ This application is especially for Linux systems.
 ## Built With
 
 * [C++ 11](https://en.cppreference.com/w/cpp) - Programming Language
+
+## Acknowledgment
+
+* [Rahul Bagad](https://github.com/rahulbagad) 
